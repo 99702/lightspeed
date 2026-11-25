@@ -1,0 +1,9 @@
+{
+  "name": "Lightspeed",
+  "package": "lightspeed",
+  "author": "rajan",
+  "version": "1.0.0",
+  "min_point_version": 50,
+  "max_point_version": 0,
+  "homepage": ""
+}
